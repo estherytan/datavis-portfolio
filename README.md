@@ -12,7 +12,7 @@ I am very excited to take this Telling Stories with Data class. I believe that b
 
 1. Know why some data visualization work and some don't. 
 2. Broaden the variability of my data visualization (economists are obssessed with bar chart and scatterplot and so am I).
-3. Balancing aesthetic with scientific accuracy. 
+3. Balance aesthetic with scientific accuracy. 
 
 # Portfolio
 Loading...
