@@ -16,4 +16,4 @@ I am very excited to take this Telling Stories with Data class. I believe that b
 
 # Portfolio
 - [Week 2](https://estherytan.github.io/datavis-portfolio-week-2/)
-<iframe src="https://data.oecd.org/chart/5OWq" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</iframe>
+
