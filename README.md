@@ -15,5 +15,5 @@ I am very excited to take this Telling Stories with Data class. I believe that b
 3. Balance aesthetic with scientific accuracy. 
 
 # Portfolio
-- [Week 2](https://estherytan.github.io/datavis-portfolio/week2.md)
+- [Week 2](https://estherytan.github.io/datavis-portfolio/week2)
 
