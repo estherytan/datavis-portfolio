@@ -3,7 +3,10 @@ Data and information source: [OECD iLibrary: Health at a Glance 2017](https://ww
 
 Chapter Two, Figure 2.3 Life expectancy gains associated with a 10% change in the main determinants of health. 
 
-This data visualisation was selected because of the easy public access of the original data, as well as its potential for redesign. 
+This data visualisation was selected because of the easy public access of the original data, as well as its potential for redesign. The original dataset is downloadable just under the graph. 
+
+In this excersice, I will critique the original data visualisation (which was linked above), attemp to wireframe my redesign of the visualisation, and finalise my redesign based on the feedback from wireframing. 
+
 
 # Original Data Visualisation Critique
 What worked well: Useful and Truthful. 
@@ -28,6 +31,27 @@ What I would do differently:
 - Add a subtitle to the graph to indicate the story this graph is trying to tell. 
 
 # Wireframing
-![](Sheet%1.png)
+![Sheet 1](https://user-images.githubusercontent.com/60046385/73614134-634e2f00-45ca-11ea-912f-651adfcbef32.png)
+
+Feedback from friends:
+
+- Two sides of the graph are too far from each other. Reader wouldn't know where to focus. 
+- The four bars with nearly zero height don't need to be on the graph. 
+- The colours are kind of similar to each other. 
+- The overall graph is too wide. 
+
+Overall, they understood the main point of the graph. This is not hard to achieve as the original dataset is a very simple one to begin with. I just needed to improve the ease to read and the aesthetics of the graph. 
 
 # Data Visualisation Redesign, Finilised
+![Sheet 1。3](https://user-images.githubusercontent.com/60046385/73614717-9810b500-45cf-11ea-9c41-c82cfa4be804.png)
+
+Things I improved:
+
+- Narrowed the overall width of the graph. 
+- Deleted the four bars with zero height, and added explaination under the graph. 
+- Changed the colour of the bars. Making the colours more distinct from each other. 
+
+Things I wish I could have done better / Final thoughts:
+
+- The main idea from the original data visualisation from OECD was very hard to understand, because the data wasn't from realised events, but from prediction from regression analysis. While results from regression analysis is usually presented by scatterplot, bar chart is usually used for realised data. To improve the simplicity to understand the graph, I changed the title of the graph and added subtitle to further explain the main idea. However, the accuracy of how the data was obtained/calculated was hindered. I couldn't figure out a way to do both. 
+- I wanted to delete the "variable" label of the y axis, but I didn't know how to do that in Tableau. 
