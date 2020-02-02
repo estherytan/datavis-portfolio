@@ -28,7 +28,6 @@ What I would do differently:
 - Add a subtitle to the graph to indicate the story this graph is trying to tell. 
 
 # Wireframing
-
-https://user-images.githubusercontent.com/60046385/73614134-634e2f00-45ca-11ea-912f-651adfcbef32.png
+![Sheet 1](https://user-images.githubusercontent.com/60046385/73614134-634e2f00-45ca-11ea-912f-651adfcbef32.png)
 
 # Data Visualisation Redesign, Finilised
