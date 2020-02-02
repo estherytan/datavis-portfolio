@@ -9,6 +9,8 @@ In this excersice, I will critique the original data visualisation (which was li
 
 
 # Original Data Visualisation Critique
+I used the critique method by Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf). Overall I find this method to be very useful, because it had many criterias which forced me to think about things that I wouldn't have thought of otherwise. It is very comprehensive, albeit a little repetitive sometimes. 
+
 What worked well: Useful and Truthful. 
 
 - The over all aesthetic is pretty good. The blue is consistent with the overall design of the health report, and of the OECD website. The graph is simple-ish and doesn't push people away from going into more detail. 
