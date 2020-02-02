@@ -57,3 +57,6 @@ Things I wish I could have done better / Final thoughts:
 
 - The main idea from the original data visualisation from OECD was very hard to understand, because the data wasn't from realised events, but from prediction from regression analysis. While results from regression analysis is usually presented by scatterplot, bar chart is usually used for realised data. To improve the simplicity to understand the graph, I changed the title of the graph and added subtitle to further explain the main idea. However, the accuracy of how the data was obtained/calculated was hindered. I couldn't figure out a way to do both. 
 - I wanted to delete the "variable" label of the y axis, but I didn't know how to do that in Tableau. 
+
+
+[Back to main page](https://estherytan.github.io/datavis-portfolio/)
