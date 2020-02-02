@@ -28,7 +28,7 @@ What I would do differently:
 - Add a subtitle to the graph to indicate the story this graph is trying to tell. 
 
 # Wireframing
-<img src="Sheet%1.png">
+![](Sheet%1.png)
 
 
 # Data Visualisation Redesign, Finilised
