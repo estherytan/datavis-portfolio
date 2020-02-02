@@ -30,5 +30,4 @@ What I would do differently:
 # Wireframing
 ![](Sheet%1.png)
 
-
 # Data Visualisation Redesign, Finilised
