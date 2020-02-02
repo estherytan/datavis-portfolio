@@ -28,6 +28,6 @@ What I would do differently:
 - Add a subtitle to the graph to indicate the story this graph is trying to tell. 
 
 # Wireframing
-![](Sheet%1。3.png)
+![](Sheet%1.png)
 
 # Data Visualisation Redesign, Finilised
