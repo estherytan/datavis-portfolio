@@ -22,19 +22,22 @@ While industrial revolution originated in the UK in the 18th to 19th century, th
 
 ## Data
 ### Maddision Project
-[Statistics on World Population, GDP and Per Capita GDP, 1-2008 AD] (http://www.ggdc.net/maddison/oriindex.htm)
+[Statistics on World Population, GDP and Per Capita GDP, 1-2008 AD](http://www.ggdc.net/maddison/oriindex.htm)
 
 ### Fordham University's Modern History Sourcebook
-[Tables Illustrating the Spread of Industrialization] (https://sourcebooks.fordham.edu/mod/indrevtabs1.asp)
-[Spread of Railways in 19th Century] (https://sourcebooks.fordham.edu/mod/INDREV6.asp)
+[Tables Illustrating the Spread of Industrialization](https://sourcebooks.fordham.edu/mod/indrevtabs1.asp)
+
+[Spread of Railways in 19th Century](https://sourcebooks.fordham.edu/mod/INDREV6.asp)
 
 ### Other Academic Journals
 1. [Growth Accounts, Technological Change, and the Role of Energy in Western Growth](http://www.ggdc.net/maddison/ARTICLES/Role_of_energy.pdf) in Economia e Energia, secc.XIII-XVIII, Istituto Internazionale di Storia Economica “F. Datini” Prato, Le Monnier, Florence, April 2003.
 
 2. [Why Isnʹt the Whole World Developed? Institutions and the Spread of Economic Growth](https://www.jstor.org/stable/10.3998/mpub.14163)
+
 Easterlin, R. (1981). Why Isn't the Whole World Developed?. The Journal of Economic History, 41(1), pp.1-17.
 
 3. [Progress and Poverty in Early Modern Europe](https://www.jstor.org/stable/3698570?seq=1)
+
 Allen, R. (2003). Progress and poverty in early modern Europe. The Economic History Review, 56(3), pp.403-443.
 
 
