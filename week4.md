@@ -56,3 +56,6 @@ Allen, R. (2003). Progress and poverty in early modern Europe. The Economic Hist
 
 These economics essays will give me a framwork for my story of the industrial revolutions and the great divergence. The empirical data, analysis of the economic history, and the economics theory will go into the write up of my project. Some of the numbers reported or calculated in the essays might be used in smaller/simpler visualisations to support the story arc. I will decide which data to visualise as I move forward in this project. 
 
+# Method and Medium
+I will use Shorthand. The final project will be a story with both description and data visualisation intertwined with each other presented as a digital story that can be accessed online. This style might be similar to Delloite's [Balancing the Books:
+IFRS 16 and Aviation Finance](http://www.euromoneythoughtleadership.com/aviation-IFRS16/). 
