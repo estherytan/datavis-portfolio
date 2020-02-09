@@ -58,4 +58,4 @@ These economics essays will give me a framwork for my story of the industrial re
 
 # Method and Medium
 I will use Shorthand. The final project will be a story with both description and data visualisation intertwined with each other presented as a digital story that can be accessed online. This style might be similar to Delloite's [Balancing the Books:
-IFRS 16 and Aviation Finance](http://www.euromoneythoughtleadership.com/aviation-IFRS16/). 
+IFRS 16 and Aviation Finance](http://www.euromoneythoughtleadership.com/aviation-IFRS16/). The style of writing will be similar to an eocnomics essay, but I'm hoping the visualisations will be much better than my past essays ;)
