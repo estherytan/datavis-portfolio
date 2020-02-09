@@ -13,12 +13,16 @@ While industrial revolution originated in the UK in the 18th to 19th century, th
 
 ## Initial Sketches
 ### World GDP
+![Week4Fig1](https://user-images.githubusercontent.com/60046385/74110765-33b89d00-4b5d-11ea-8adf-472d0ccedf59.JPG)
 
 ### UK's Industrial Revolution
+![Week4Fig2](https://user-images.githubusercontent.com/60046385/74110774-521e9880-4b5d-11ea-9b61-40269a384c4a.JPG)
 
 ### Industrial Revolution in Europe
+![Week4Fig3](https://user-images.githubusercontent.com/60046385/74110781-5fd41e00-4b5d-11ea-8b5b-82baf67f5b78.JPG)
 
 ### The Great Diverngence
+![Week4Fig4](https://user-images.githubusercontent.com/60046385/74110786-6b274980-4b5d-11ea-8ac9-4112330f1f9a.JPG)
 
 ## Data
 ### Maddision Project
