@@ -24,11 +24,11 @@ While industrial revolution originated in the UK in the 18th to 19th century, th
 ### Maddision Project
 [Statistics on World Population, GDP and Per Capita GDP, 1-2008 AD](http://www.ggdc.net/maddison/oriindex.htm)
 
-"The Maddison Project, also known as the Maddison Historical Statistics Project, is a project to collate historical economic statistics, such as GDP, GDP per capita, and labor productivity. It was launched in March 2010 to continue the work of the late economic historian Angus Maddison. The project is under the Groningen Growth and Development Centre at the University of Groningen, which also hosts the Penn World Table, another economic statistics project." - [Wikipedia: Maddison Project](https://en.wikipedia.org/wiki/Maddison_Project)
+> "The Maddison Project, also known as the Maddison Historical Statistics Project, is a project to collate historical economic statistics, such as GDP, GDP per capita, and labor productivity. It was launched in March 2010 to continue the work of the late economic historian Angus Maddison. The project is under the Groningen Growth and Development Centre at the University of Groningen, which also hosts the Penn World Table, another economic statistics project." - [Wikipedia: Maddison Project](https://en.wikipedia.org/wiki/Maddison_Project)
 
 ### Fordham University's Internet Modern History Sourcebook
 
-"The Internet Modern History Sourcebook is one of series of history primary sourcebooks. It is intended to serve the needs of teachers and students in college survey courses in modern European history and American history, as well as in  modern Western Civilization and World Cultures. Although this part of the Internet History Sourcebooks Project began as a way to access texts that were already available on the Internet, it now contains hundreds of texts made available locally." - [Paul Halsall: Introduction, Internet Modern History Sourcebook](https://sourcebooks.fordham.edu/mod/modsbook.asp#Introduction)
+> "The Internet Modern History Sourcebook is one of series of history primary sourcebooks. It is intended to serve the needs of teachers and students in college survey courses in modern European history and American history, as well as in  modern Western Civilization and World Cultures. Although this part of the Internet History Sourcebooks Project began as a way to access texts that were already available on the Internet, it now contains hundreds of texts made available locally." - [Paul Halsall: Introduction, Internet Modern History Sourcebook](https://sourcebooks.fordham.edu/mod/modsbook.asp#Introduction)
 
 [Tables Illustrating the Spread of Industrialization](https://sourcebooks.fordham.edu/mod/indrevtabs1.asp)
 
