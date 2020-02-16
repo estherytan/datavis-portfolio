@@ -64,6 +64,7 @@ She was simiarlly confused about the third graph. Comments made were similar to 
 
 
 ## Revised wireframes / visualizations / storyboards based on what you heard
+![Revised](https://user-images.githubusercontent.com/60046385/74611938-a16d4780-50ce-11ea-838b-04e94b9894d7.png)
 
 ## Moodboards 
 
