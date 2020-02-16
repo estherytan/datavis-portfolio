@@ -46,9 +46,19 @@ Furthermore, she suggested that I use a realistic and simple aesthetic. Economic
 
 - Master Student, Information System Management, Carnegie Mellon University, Pittsburgh, US
 
+As a fellow student in the Telling Stories with Data class, her suggestion was more technically focused. For the first visualisation, she felt that the World GDP isn't needed. The current graph is misleading as World GDP and UK GDP have the same shape but are not on the same scale (UK GDP is way higher than world average). 
 
+For the second visualisation, she suggested I use a short animation to show the changes across time. Shorthand offers a functions to scroll across image, which could be used to do the animation. The current design is a bit confusing because the graph is too long to fit in the computer screen, so when she scrolled down she couldn't see the top of the graph. But overall she was impressed by this visualisation. 
+
+The third visualisation remains to be a problem. There were too many colours. She suggested to use more grouping, less colour, and duller colours as opposed to brighter ones. She also felt that the ending was too abrupt, and that I should have a summary. 
 
 - Master Student, Chemistry, Durham University, Durham, UK
+
+As a chemistry student, she mainly focused on the internal logic of my article and the truthful representation of data. She also felt that world GDP isn't needed, because it doesn't fit in with the arc of the story. We agreed that the structure of the story should be UK-Europe-World, which is increasing in scope. 
+
+For the second graph, she felt that it was fine once she spent sometime reading it. But at first she didn't know where to too at and in which direction she should process (e.g. should I read horizontally first or vertically first?). She felt that more instruction should be provided in reading this graph. 
+
+She was simiarlly confused about the third graph. Comments made were similar to the ones described above. Overall, their confusion about this visualisation surprised me, because I have an economics background and I know this is a very well known visualisation of the Great Divergence, which is also a famous viewpoint in economics. I kind of forgot not all people have the same background as I do, and that they are not familiar with the concept itself. 
 
 5. Changes implemented
 
