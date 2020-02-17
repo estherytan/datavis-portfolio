@@ -62,10 +62,35 @@ She was simiarlly confused about the third graph. Comments made were similar to 
 
 5. Changes implemented
 
+After careful consideration, I implemented these changes:
+
+- Changed the main title of the article to make my overall story structure and main viewpoint clearer. 
+
+- Added opening photo slide show to draw people in.
+
+- Deleted the World GDP visualisation. 
+
+- Indicated spaces for images. 
+
+- Divided story by chapters to indicate logical flow. 
+
+- Redo the GDP & Rail & Import Export graph as an animation. (The animation is indicated here by a video frame, but I am planning to use animation while scrolling on Shorthand, which will be a full screen animation).
+
+- Added two correlation coefficients between GDP per capita & Railway Milage and GDP per capita & International Trade per capita. 
+
+- Divided countries into two subgroups for the Great Divergene graph to reduce the colours.
+
+- Changed the title of the Great Divergence graph to better suggest the main idea of the data visualisation. 
+
+- Added another animation (same style as the one before) to reinforce the increasing global inequality as a result of the Great Divergence. 
+
+- Changed the last part of the story to a summary. Added a word cloud to indicate the importance of Glibalisation & Deglibalisation and that people are putting more and more focus on the topic. 
+
+- Added "share" button as a clear call to action. 
+
 
 ## Revised wireframes / visualizations / storyboards based on what you heard
 ![Revised](https://user-images.githubusercontent.com/60046385/74611938-a16d4780-50ce-11ea-838b-04e94b9894d7.png)
 
-## Moodboards 
 
 [Back to main page](https://estherytan.github.io/datavis-portfolio/)
