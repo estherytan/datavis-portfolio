@@ -18,5 +18,5 @@ I am very excited to take this Telling Stories with Data class. I believe that b
 - [Week 2](https://estherytan.github.io/datavis-portfolio/week2)
 - [Week 3](https://estherytan.github.io/datavis-portfolio/week3)
 - [Final Project](https://estherytan.github.io/datavis-portfolio/FinalProject)
-- Final Project: [link to article](https://carnegiemellon.shorthandstories.com/an-open-world/index.html)
+- [An Open World: A Case Study of Industrial Revolution in Europe and the Importance of Openness](https://carnegiemellon.shorthandstories.com/an-open-world/index.html)
 
