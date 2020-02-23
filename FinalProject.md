@@ -64,7 +64,7 @@ These economics essays will give me a framwork for my story of the industrial re
 I will use Shorthand. The final project will be a story with both description and data visualisation intertwined with each other presented as a digital story that can be accessed online. This style might be similar to Delloite's [Balancing the Books:
 IFRS 16 and Aviation Finance](http://www.euromoneythoughtleadership.com/aviation-IFRS16/). The style of writing will be similar to an eocnomics essay, but I'm hoping the visualisations will be much better than my past essays ;)
 
-## Part II: The Planning
+## Part II: Design and User Research
 ### Wirefames / storyboard for user feedback
 ![New Wireframe 1](https://user-images.githubusercontent.com/60046385/74597875-80f0af00-5034-11ea-8725-4c5f09886110.png)
 
@@ -157,7 +157,9 @@ After careful consideration, I implemented these changes:
 ![Revised](https://user-images.githubusercontent.com/60046385/74611938-a16d4780-50ce-11ea-838b-04e94b9894d7.png)
 
 
-## Part III: The Execution
+## Part III: Final Data Dtory
 [An Open World: A Case Study of Industrial Revolution in Europe and the Importance of Openness](https://carnegiemellon.shorthandstories.com/an-open-world/index.html)
+
+
 
 
