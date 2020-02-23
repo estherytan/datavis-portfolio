@@ -161,5 +161,18 @@ After careful consideration, I implemented these changes:
 [An Open World: A Case Study of Industrial Revolution in Europe and the Importance of Openness](https://carnegiemellon.shorthandstories.com/an-open-world/index.html)
 
 
+## References
+1. Allen, R. (2003). Progress and poverty in early modern Europe. The Economic History Review, 56(3), pp.403-443.
 
+2. Easterlin, R. (1981). Why Isn't the Whole World Developed?. The Journal of Economic History, 41(1), pp.1-17.
+
+3. Estevadeordal, A., Frantz, B. and Taylor, A. (2003). The Rise and Fall of World Trade, 1870-1939. The Quarterly Journal of Economics, 118(2), pp.359-407.
+
+4. Inkeles, A. (1969). Making Men Modern: On the Causes and Consequences of Individual Change in Six Developing Countries. American Journal of Sociology, 75(2), pp.208-225.
+
+5. Lazer, D. (1999). The Free Trade Epidemic of the 1860s and Other Outbreaks of Economic Discrimination. World Politics, 51(4), pp.447-483.
+
+6. Maddison Project Database, version 2018. Bolt, Jutta, Robert Inklaar, Herman de Jong and Jan Luiten van Zanden (2018), “Rebasing ‘Maddison’: new income comparisons and the shape of long-run economic development”, Maddison Project Working paper 10Sourcebooks.
+
+7. fordham.edu. (2020). Internet History Sourcebooks. [online] Available at: https://sourcebooks.fordham.edu/mod/indrev6.asp [Accessed 22 Feb. 2020].
 
