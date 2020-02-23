@@ -158,7 +158,6 @@ After careful consideration, I implemented these changes:
 
 
 ## Part III: The Execution
-[link to article](https://preview.shorthand.com/1nHEVGkWtyP0Uvk3)
-<script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/an-open-world/"><h1>An Open World</h1><p>A Case Study of Industrial Revolution in Europe and the Importance of Openness</p></div>
+[An Open World: A Case Study of Industrial Revolution in Europe and the Importance of Openness](https://carnegiemellon.shorthandstories.com/an-open-world/index.html)
+
 
