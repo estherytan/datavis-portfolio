@@ -17,6 +17,4 @@ I am very excited to take this Telling Stories with Data class. I believe that b
 # Portfolio
 - [Week 2](https://estherytan.github.io/datavis-portfolio/week2)
 - [Week 3](https://estherytan.github.io/datavis-portfolio/week3)
-- [Week 4](https://estherytan.github.io/datavis-portfolio/week4)
-- [Week 5](https://estherytan.github.io/datavis-portfolio/week5)
-
+- [Final Project](https://estherytan.github.io/datavis-portfolio/final project)
