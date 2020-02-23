@@ -69,11 +69,8 @@ IFRS 16 and Aviation Finance](http://www.euromoneythoughtleadership.com/aviation
 ![New Wireframe 1](https://user-images.githubusercontent.com/60046385/74597875-80f0af00-5034-11ea-8725-4c5f09886110.png)
 
 ### Creation of a user research protocol and completion of interviews
-1. Target audience
 
-Any intellectual with an interest in global economy or global politics. Because of the limitation of this project, I am choosing to target international students in universities especially. They are a typical subgroup of my broader target audience. They are more likely to care about globalisation and the free flow of capital across national borders. This project gives them some theoretical and empirical backing, encouraging them to embrace their roles as bridges across countries and support freedom of movement. 
-
-2. Identifying representative individuals to interview
+1. Identifying representative individuals to interview
 
 Since I am an international student myself, I know a fair amount of international students with various backgrounds. I have selected three of my friends who are close enough to give me honest feedback. The three participants have the following academic and geographical backgrounds:
 
@@ -85,7 +82,7 @@ Since I am an international student myself, I know a fair amount of internationa
 
 The design student can give me perspectives on visual aspects, the chemistry student can give me perspectives on data analytics, and the MISM student is also in the Telling Stories with Data class, so we can talk about the specifics of data visualisation covered in this class. The interviews are conducted in Mandarin and/or English. 
 
-3. Interview script
+2. Interview script
 
 The questions I prepared are:
 
@@ -99,7 +96,7 @@ I will tell them the story I am planning to tell in this article, and what each 
 
 Generally I haven't planned a lot of questions beforehand, but rather relying on going deeper on their feedbacks as well as bouncing new ideas of them. 
 
-4. Findings from interviews
+3. Findings from interviews
 
 - Master Student, Design, XXX, New York, US
 
@@ -125,7 +122,7 @@ For the second graph, she felt that it was fine once she spent sometime reading 
 
 She was simiarlly confused about the third graph. Comments made were similar to the ones described above. Overall, their confusion about this visualisation surprised me, because I have an economics background and I know this is a very well known visualisation of the Great Divergence, which is also a famous viewpoint in economics. I kind of forgot not all people have the same background as I do, and that they are not familiar with the concept itself. 
 
-5. Changes implemented
+4. Changes implemented
 
 After careful consideration, I implemented these changes:
 
@@ -159,6 +156,14 @@ After careful consideration, I implemented these changes:
 
 ## Part III: Final Data Dtory
 [An Open World: A Case Study of Industrial Revolution in Europe and the Importance of Openness](https://carnegiemellon.shorthandstories.com/an-open-world/index.html)
+
+Any intellectual with an interest in global economy or global politics. Because of the limitation of this project, I am choosing to target international students in universities especially. They are a typical subgroup of my broader target audience. They are more likely to care about globalisation and the free flow of capital across national borders. This project gives them some theoretical and empirical backing, encouraging them to embrace their roles as bridges across countries and support freedom of movement. 
+
+When creating the moodboard, I wanted something that is serious but still colourful. I decided to do black/white/grey/blue as the theme. This is the colour scheme of The Economist, and I feel that my targey audience should be comfortable about the overall feel of the article. 
+
+As for the article itself, I kept in mind that my target audiences are intelligent, but not nessecarily have a background in economics. Therefore I reused some of my old lecture notes on developmental economics and economic history, but also cut down the economic theory and focused more on the story of the industrial revolution itself. Still, I feel that comparing to many other online articles about the industrial revolution or globalisation, my article is more academic and presents more detailed arguments, which I am quite happy about. 
+
+At the same time, the data visualisation and the overall design of the article is way more stylish than the traditional economics journals. For starters, academic papers in economics are usually in black and white, so I am very happy about the way that I introduced images and colours into a very serious topic. Secondly, economists loves bar charts, line charts, and scatterplots. I have two line charts in the article, but they look intentionally designed and aesthetically pleasing. But I also have  
 
 
 ## References
