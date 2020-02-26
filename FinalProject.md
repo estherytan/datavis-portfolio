@@ -182,3 +182,16 @@ This class expanded my knowlegde of the types of data visualisations available. 
 
 7. fordham.edu. (2020). Internet History Sourcebooks. [online] Available at: https://sourcebooks.fordham.edu/mod/indrev6.asp [Accessed 22 Feb. 2020].
 
+## Image Sources
+
+1. Commons.wikimedia.org. (2020). File:Tribute to September 11, New York City.jpg - Wikimedia Commons. [online] Available at: https://commons.wikimedia.org/wiki/File:Tribute_to_September_11,_New_York_City.jpg [Accessed 26 Feb. 2020].
+
+2. Commons.wikimedia.org. (2020). File:Zeichnung Spinning jenny.jpg - Wikimedia Commons. [online] Available at: https://commons.wikimedia.org/wiki/File:Zeichnung_Spinning_jenny.jpg [Accessed 26 Feb. 2020].
+
+3. En.wikipedia.org. (2020). South African Class 25 4-8-4. [online] Available at: https://en.wikipedia.org/wiki/South_African_Class_25_4-8-4 [Accessed 26 Feb. 2020].
+
+4. En.wikipedia.org. (2020). Textile manufacture during the British Industrial Revolution. [online] Available at: https://en.wikipedia.org/wiki/Textile_manufacture_during_the_British_Industrial_Revolution#/media/File:Barmen_(1870).jpg [Accessed 26 Feb. 2020].
+
+5. Environmentandsociety.org. (2020). Urbanization | Environment & Society Portal. [online] Available at: http://www.environmentandsociety.org/exhibitions/anthropocene/urbanization [Accessed 26 Feb. 2020].
+
+6. London, P. (2020). How Chinese products went from cheap and cheerful to weapons in US trade war. [online] Pressenza. Available at: https://www.pressenza.com/2018/04/chinese-products-went-cheap-cheerful-weapons-us-trade-war/ [Accessed 26 Feb. 2020].
