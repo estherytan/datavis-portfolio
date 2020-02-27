@@ -154,7 +154,7 @@ After careful consideration, I implemented these changes:
 ![Revised](https://user-images.githubusercontent.com/60046385/74611938-a16d4780-50ce-11ea-838b-04e94b9894d7.png)
 
 
-## Part III: Final Data Dtory
+## Part III: Final Data Story
 [An Open World: A Case Study of Industrial Revolution in Europe and the Importance of Openness](https://carnegiemellon.shorthandstories.com/an-open-world/index.html)
 
 Any intellectual with an interest in global economy or global politics. Because of the limitation of this project, I am choosing to target international students in universities especially. They are a typical subgroup of my broader target audience. They are more likely to care about globalisation and the free flow of capital across national borders. This project gives them some theoretical and empirical backing, encouraging them to embrace their roles as bridges across countries and support freedom of movement. 
